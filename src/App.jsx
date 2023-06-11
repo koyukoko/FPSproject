@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import DirectedGraph from './test.js';
+import DirectedGraph from './test.jsx';
 import Modal from 'react-modal';
 
 
